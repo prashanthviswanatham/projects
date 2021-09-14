@@ -9,7 +9,8 @@ Threshhold of 0.8 probability is selected as we want good precision bcz we are u
 
 We are able to improve accuracy from 60% to 98% using VGG model
 
-Our model is able to predict the wires if they are present near but unable to detect them if they are far away(as the details will be lost during resizing the image to smaller input size), but the robots will be working on nearby objects so it doesn't create much problem
+Our model is able to predict the wires if they are present near but unable to detect them if they are far away(as the details will be lost during resizing the image to smaller input size), 
+but the robots will be working on nearby objects so it doesn't create much problem
 
 Future plannings:
 To create bounding boxes for the wires using computer vision techniques so that it will be easier for the robot to pick the wire
