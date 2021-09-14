@@ -11,3 +11,10 @@ Pose estimation involves
     search for the highest value in the heatmap and map it to the coordinates on the original image.
 5.Drawing the skeleton
     Skeleton is drawn using the keypoints
+
+alpha.ipynb
+I have predicted poses for sample images(from frames folder) which is obtained from dividing video into 
+frames and stored the skeleton images in (pred_frames) folder
+
+video_model.ipynb
+I have also done pose estimation for video(trial1.mp4) and drawn the pose and saved the video as trial2_output.mp4
