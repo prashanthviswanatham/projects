@@ -7,7 +7,7 @@ We have tried using simple set of CNNs but that didn't give good results, So we 
 
 Threshhold of 0.8 probability is selected as we want good precision bcz we are using the model to reduce man power in seperating wires from the debris and don't want sorted objects to contain other objects as well
 
-We are able to improve accuracy from 60% to 98% using VGG model
+We are able to improve accuracy from 60% to 95% using VGG model
 
 Our model is able to predict the wires if they are present near but unable to detect them if they are far away(as the details will be lost during resizing the image to smaller input size), 
 but the robots will be working on nearby objects so it doesn't create much problem
