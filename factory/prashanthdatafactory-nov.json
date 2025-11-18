@@ -1,9 +1,0 @@
-{
-	"name": "prashanthdatafactory-nov",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "15f923a8-c0f5-4d7e-8db2-9ad5c68ed506",
-		"tenantId": "9da84214-4786-4de5-9f11-bdce1428a69e"
-	}
-}
