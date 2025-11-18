@@ -3,8 +3,8 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy data1",
-				"type": "Copy",
+				"name": "Azure Function1",
+				"type": "AzureFunctionActivity",
 				"dependsOn": [],
 				"policy": {
 					"timeout": "0.12:00:00",
